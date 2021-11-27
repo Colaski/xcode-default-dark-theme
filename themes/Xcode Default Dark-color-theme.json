@@ -1789,7 +1789,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "normal",
         "foreground": "#737c86"
       }
     },
@@ -1826,7 +1826,7 @@
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "normal"
       }
     },
     {
@@ -1854,14 +1854,15 @@
     "activityBar.inactiveForeground": "#ffffff66",
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#007acc",
-    "sideBar.background": "#2222249d",
+    "sideBar.background": "#292a2f",
     "sideBar.foreground": "#ffffff",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#cccccc",
     "sideBarSectionHeader.border": "#cccccc33",
     "sideBarTitle.foreground": "#bbbbbb",
-    "list.inactiveSelectionBackground": "#37373d",
-    "list.inactiveSelectionForeground": "#cccccc",
+    "sideBar.border": "#ffffff",
+    "list.inactiveSelectionBackground": "#3267ba",
+    "list.inactiveSelectionForeground": "#ffffff",
     "list.hoverBackground": "#2a2d2e",
     "list.hoverForeground": "#cccccc",
     "list.activeSelectionBackground": "#3267ba",

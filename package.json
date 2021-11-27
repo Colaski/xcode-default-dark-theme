@@ -3,6 +3,7 @@
     "displayName": "Xcode Default Dark Theme",
     "description": "Probably as close as you can get to the Xcode default dark theme included in Xcode 13.",
     "version": "0.0.1",
+    "publisher": "Colaski",
     "engines": {
         "vscode": "^1.62.0"
     },

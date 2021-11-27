@@ -1,0 +1,26 @@
+{
+    "name": "xcode-default-dark-theme",
+    "displayName": "Xcode Default Dark Theme",
+    "description": "Probably as close as you can get to the Xcode default dark theme included in Xcode 13.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Xcode Default Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Xcode Default Dark-color-theme.json"
+            }
+        ]
+    },
+    "homepage": "https://github.com/Colaski/xcode-default-dark-theme/blob/main/README.md",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/Colaski/xcode-default-dark-theme.git"
+  }
+}
